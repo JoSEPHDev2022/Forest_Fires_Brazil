@@ -24,7 +24,7 @@ Em mais detalhes, outro objetivo é concluir essa análise seguindo alguns passo
 
 - 📊 Utilizar de visualizações gráficas para gerar insights acerca dos dados;
 
-Também criei um Dashboard no PowerBI utilizando os dados limpos no Python, com o objetivo de criar uma visualização dinâmica dos dados encotrados na análise exploratória (em breve adicionarei o Dashboard ao repositório).
+Também criei um Dashboard no PowerBI utilizando os dados limpos no Python, com o objetivo de criar uma visualização dinâmica dos dados encotrados na análise exploratória.
 
 --- 
 
@@ -39,6 +39,8 @@ Também criei um Dashboard no PowerBI utilizando os dados limpos no Python, com 
 Neste reposítório, você vai encontrar:
 
 > Uma pasta chamada **data** que possui o arquivo csv da base de dados utilizado para a análise;
+>
+> Uma pasta chamada **dashboard** que contém prints do Dasboard e o arquivo .pbix em si;
 >
 > Um Notebook chamado **relatorio.ipynb** que contém o projeto em si.
 
@@ -81,9 +83,30 @@ Como um resumo de todo o processo de desenvolvimento do projeto:
 > Ao responder essas perguntas, pude desenvolver análises e estabelecer relações entre as colunas e dados fornecidos pelo Dataset.
 
 - **Quarta Etapa: Criação de um Dashboard no Power BI**
-> EM DESENVOLVIMENTO
+> Utilizando o Power BI, subi os dados para a plataforma e tive que realizar pequenas mudanças nos dados importados:
+> - Junção das colunas `Year` e `Month` em uma única coluna no estilo Datetime. Para essa modificação, foi utilizada a linguagem DAX.
+>
+> Com essas alterações, foram criados dois relatórios:
+> - **Estados e Regiões**: Visão acerca dos incêndios florestais com um foco nos estados e regiões do Brasil;
+> - **Governos e Estações do Ano**: Visão dos incêndios lorestais com um enfoque nos diferentes governantes brasileiros e estações do ano.
+> 
+> Abaixo, seguem imagens do Dashboard.
 
+---
 
+## Dashboard 🗺️
+
+![capa_dash](https://github.com/JoSEPHDev2022/Forest_Fires_Brazil/blob/main/dashboard/capa.png)
+
+---
+
+![estados_regioes](https://github.com/JoSEPHDev2022/Forest_Fires_Brazil/blob/main/dashboard/estados_regiao.png)
+
+---
+
+![governos_clima](https://github.com/JoSEPHDev2022/Forest_Fires_Brazil/blob/main/dashboard/governos_clima.png)
+
+---
 
 ## Contatos 📧
 
