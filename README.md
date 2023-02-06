@@ -54,7 +54,7 @@ Como um resumo de todo o processo de desenvolvimento do projeto:
 
 > O primeiro passo foi coletar os dados do Kaggle e trazê-los para o VScode, onde foi criado o Jupyter Notebook para as análises.
 > Essa primeira etapa foi onde realizei as primeiras análises descritivas dos dados, buscando compreender as características gerais deles como:
->   - Dimenões, tipos de dados, quantidade de nulos, outliers, distribuição dos dados.
+>   - Dimensões, tipos de dados, quantidade de nulos, outliers, distribuição dos dados.
 >
 > Enfim, a primeira etapa foi de reconhecimento, para que eu pudesse conhecer os dados na qual estava trabalhando.
 
