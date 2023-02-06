@@ -36,13 +36,13 @@ Também criei um Dashboard no PowerBI utilizando os dados limpos no Python, com 
 
 ## Conteúdos do Repositório 📁
 
-Neste reposítório, você vai encontrar:
+Neste repositório, você vai encontrar:
 
 > Uma pasta chamada **data** que possui o arquivo csv da base de dados utilizado para a análise;
 >
 > Uma pasta chamada **dashboard** que contém prints do Dasboard e o arquivo .pbix em si;
 >
-> Um Notebook chamado **relatorio.ipynb** que contém o projeto em si.
+> Um Notebook chamado **relatorio.ipynb** que contém o projeto de EDA em si.
 
 ---
 
@@ -73,10 +73,10 @@ Como um resumo de todo o processo de desenvolvimento do projeto:
 
 - **Terceira Etapa: Análises, Insights e Visualizações**
 
-> Como o próprio nome sugere, foi nessa etapa que o trabalho central de análise ocorreu. Nela, busquei utilizar da melhor forma possível todas as variáveis disponíveis nos dados (tanto originais quanto as criadas por mim psoteriormente), com o objetivo de responder a 4 perguntas centrais:
+> Como o próprio nome sugere, foi nessa etapa que o trabalho central de análise ocorreu. Nela, busquei utilizar da melhor forma possível todas as variáveis disponíveis nos dados (tanto originais quanto as criadas por mim posteriormente), com o objetivo de responder a 4 perguntas centrais:
 >
 > 1. Quais os estados e regiões mais e menos afetados por incêndios durante toda a série histórica?
->2. Durante qual período de qual governante brasileiro tivemos mais e menos incêndios no Brasil?
+> 2. Durante qual período de qual governante brasileiro tivemos mais e menos incêndios no Brasil?
 > 3. Como o número de incêndios nas diferentes regiões e estados se comportam ao longo da série histórica?
 > 4. Qual a estação do ano em que se houve mais e menos incêndios no Brasil?
 >
@@ -88,7 +88,7 @@ Como um resumo de todo o processo de desenvolvimento do projeto:
 >
 > Com essas alterações, foram criados dois relatórios:
 > - **Estados e Regiões**: Visão acerca dos incêndios florestais com um foco nos estados e regiões do Brasil;
-> - **Governos e Estações do Ano**: Visão dos incêndios lorestais com um enfoque nos diferentes governantes brasileiros e estações do ano.
+> - **Governos e Estações do Ano**: Visão dos incêndios florestais com um enfoque nos diferentes governantes brasileiros e estações do ano.
 > 
 > Abaixo, seguem imagens do Dashboard.
 
